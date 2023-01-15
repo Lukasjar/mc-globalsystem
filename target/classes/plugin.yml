@@ -1,0 +1,28 @@
+name: Maincore
+version: '1.0-SNAPSHOT'
+main: net.astrogames.maincore.Maincore
+api-version: 1.19
+authors: [ LukasDev ]
+
+commands:
+  discord:
+    aliases: [dc]
+  teamspeak:
+    aliases: [ts3, ts, teamspeak3]
+  Fly:
+  setspawn:
+  spawn:
+  heal:
+  gamemode:
+    aliases: [gm]
+  sun:
+    aliases: [day]
+  feed:
+  account:
+  chatclear:
+    aliases: [cc]
+  forum:
+  gma:
+  gmc:
+  gmsp:
+  gms:
